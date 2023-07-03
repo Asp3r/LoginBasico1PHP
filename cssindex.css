@@ -1,0 +1,41 @@
+
+body, html {
+    /* height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center; */
+    background-color: rgb(88, 165, 253);
+}
+
+.formularioPrincipal{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+}
+
+.cajaTituloForm{
+    text-align: center;
+}
+
+.cajaForm{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+}
+
+.botones{
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+}
+
+#botonEnviar{
+    margin-right: 5%;
+}
+
+#cajaUsuario{
+    margin-bottom: 5%;
+}
